@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix
-- 👀 I’m interested in Python, JS & GoLang
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in C, Rust & GoLang
+- 🌱 I’m currently learning C
 
 
 
